@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Espinoza</h1>
-<h3 align="center">I,m VideoGame designer, VideoGame Developer and Programmer, I'm from Chile, I mainly use C# and C++, my main engine is unity and I'm learning to use unreal engine 5 and I have a medium level of modeling, sculpting and texturing of 3d models in Zbrush and blender</h3>
+<h3 align="center">I,m VideoGame designer, VideoGame Developer and Programmer, I'm from Chile, I mainly use C# and C++, my main engine is unity and I'm learning to use unreal engine 5 and I have a medium level of modeling and sculpting  of 3d models in Zbrush and blender</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capcorneta" alt="capcorneta" /></a> </p>
 
